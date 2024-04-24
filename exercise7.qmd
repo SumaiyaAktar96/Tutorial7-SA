@@ -2,7 +2,7 @@
 title: Tutorial7-SA
 title: "Reproducible and Collaborative Practices"
 subtitle: "Tutorial 7"
-author: "Your Name"
+author: "Sumaiya Aktar"
 institute: "Department of Econometrics and Business Statistics"
 output: 
  pdf:
